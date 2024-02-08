@@ -7,5 +7,7 @@ Converts strings like "FirstName LastName" to/from binary zero-space character c
 
 This is a sample output of the program. Copy/paste it into a text editor and try to navigate through it.
 ```
-copy
+Original Text: Gage Howe
+Encoded text: ​‌​​​‌‌‌​‌‌​​​​‌​‌‌​​‌‌‌​‌‌​​‌​‌​​‌​​​​​​‌​​‌​​​​‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​‌
+Decoded text: Gage Howe
 ```
